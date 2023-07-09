@@ -1,0 +1,36 @@
+.container-fluid .container .navbar.navbar-expand-lg.navbar-light.bg-light {
+    background-color: #F4D164;
+    background-image: -webkit-linear-gradient(270deg,rgba(253,218,50,0.92) 0%,rgba(251,214,67,1.00) 0%,rgba(253,242,194,0.83) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(253,218,50,0.92) 0%,rgba(251,214,67,1.00) 0%,rgba(253,242,194,0.83) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(253,218,50,0.92) 0%,rgba(251,214,67,1.00) 0%,rgba(253,242,194,0.83) 100%);
+    background-image: linear-gradient(180deg,rgba(253,218,50,0.92) 0%,rgba(251,214,67,1.00) 0%,rgba(253,242,194,0.83) 100%);
+}
+.container-fluid .container footer {
+    background-image: -webkit-linear-gradient(270deg,rgba(238,240,16,0.97) 0%,rgba(219,210,51,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(238,240,16,0.97) 0%,rgba(219,210,51,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(238,240,16,0.97) 0%,rgba(219,210,51,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(238,240,16,0.97) 0%,rgba(219,210,51,1.00) 100%);
+    background-color: hsla(359,85%,48%,1.00);
+}
+.footer {
+    background-color: hsla(46,93%,56%,1.00);
+    background-image: -webkit-linear-gradient(270deg,rgba(249,229,35,1.00) 0%,rgba(238,175,31,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(249,229,35,1.00) 0%,rgba(238,175,31,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(249,229,35,1.00) 0%,rgba(238,175,31,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(249,229,35,1.00) 0%,rgba(238,175,31,1.00) 100%);
+}
+.container-fluid .navbar.navbar-expand-lg.navbar-light.bg-light {
+    background-image: -webkit-linear-gradient(270deg,rgba(251,214,67,1.00) 0%,rgba(253,242,194,0.83) 100%), url(image/backgroundfinal.png);
+    background-image: -moz-linear-gradient(270deg,rgba(251,214,67,1.00) 0%,rgba(253,242,194,0.83) 100%), url(image/backgroundfinal.png);
+    background-image: -o-linear-gradient(270deg,rgba(251,214,67,1.00) 0%,rgba(253,242,194,0.83) 100%), url(image/backgroundfinal.png);
+    background-image: linear-gradient(180deg,rgba(251,214,67,1.00) 0%,rgba(253,242,194,0.83) 100%), url(image/backgroundfinal.png);
+}
+.container-fluid {
+}
+.container-fluid footer {
+    background-color: hsla(48,83%,54%,1.00);
+    background-image: -webkit-linear-gradient(270deg,rgba(254,218,47,1.00) 0%,rgba(236,212,30,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(254,218,47,1.00) 0%,rgba(236,212,30,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(254,218,47,1.00) 0%,rgba(236,212,30,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(254,218,47,1.00) 0%,rgba(236,212,30,1.00) 100%);
+}

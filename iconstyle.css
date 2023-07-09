@@ -1,0 +1,33 @@
+@charset "UTF-8";
+
+	.bg-blue10 {
+    background-color: #D4F1FC;
+}
+
+.icon-bar {
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+}
+
+.icon-bar a {
+    color: #5A5959;
+    font-size: x-large;
+    letter-spacing: 10px;
+    text-align: center;
+}
+.icon-bar a:active  {
+    color: #5A5959;
+    letter-spacing: 10px;
+}
+
+.icon-bar a:hover  {
+    color: #37BDF5;
+    word-spacing: 10px;
+}
+.icon-bar a:visited  {
+    color: #5A5959;
+    word-spacing: 10px;
+    background-color: #5A5959;
+
+}
